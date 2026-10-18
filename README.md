@@ -6,7 +6,7 @@ Interpreting user needs and implementing them into a program begins with underst
 
 ### How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
-o	I approach developing programs by first understanding the requirements and breaking down the development process into smaller tasks. One Agile practice I hope to incorporate into future work is regular communication between team members and stakeholders. This allows for feedback continuously throughout the development process and makes it easier to adapt when requirements change.
+I approach developing programs by first understanding the requirements and breaking down the development process into smaller tasks. One Agile practice I hope to incorporate into future work is regular communication between team members and stakeholders. This allows for feedback continuously throughout the development process and makes it easier to adapt when requirements change.
 
 ### What does it mean to be a good team member in software development?
 
